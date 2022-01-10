@@ -2,5 +2,8 @@ body {
     background-color: yellow;
 }
 .bg-img {
-    background-image: url(../img/planeta.jfif);
+    background-image: url(/img/planeta.jfif);
+}
+img {
+    width: 90vw;
 }
